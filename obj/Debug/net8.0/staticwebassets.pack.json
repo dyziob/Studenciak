@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Krzyś\\.NetProjects\\Studenciak\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Studenciak.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Studenciak.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Krzyś\\.NetProjects\\Studenciak\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Krzyś\\.NetProjects\\Studenciak\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Krzyś\\.NetProjects\\Studenciak\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Krzyś\\.NetProjects\\Studenciak\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Studenciak.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Studenciak.props",
+      "PackagePath": "build\\Studenciak.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Studenciak.props",
+      "PackagePath": "buildMultiTargeting\\Studenciak.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Studenciak.props",
+      "PackagePath": "buildTransitive\\Studenciak.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
